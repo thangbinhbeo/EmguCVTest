@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmguCVDemo", "EmguCVDemo.csproj", "{DBEA5D7A-C58F-4BAC-9619-725B724EDAF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmguCVDemo", "EmguCVDemo.csproj", "{DBEA5D7A-C58F-4BAC-9619-725B724EDAF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmguCVDemoOnWPF", "..\EmguCVDemoOnWPF\EmguCVDemoOnWPF.csproj", "{71FC5EE6-ADB5-444A-B62F-0D7610241835}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DBEA5D7A-C58F-4BAC-9619-725B724EDAF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBEA5D7A-C58F-4BAC-9619-725B724EDAF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBEA5D7A-C58F-4BAC-9619-725B724EDAF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71FC5EE6-ADB5-444A-B62F-0D7610241835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FC5EE6-ADB5-444A-B62F-0D7610241835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FC5EE6-ADB5-444A-B62F-0D7610241835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FC5EE6-ADB5-444A-B62F-0D7610241835}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
